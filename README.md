@@ -23,19 +23,19 @@
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature              | Description                                      |
 |----------------------|--------------------------------------------------|
-| 🔐 **Authentication** | Admin/Employee roles with secure password hashing |
-| 🏷️ **Asset Management** | Full CRUD operations for assets                  |
-| 📊 **Allocation System** | Track asset assignments and reservations        |
-| 🔧 **Maintenance**     | Record and track maintenance activities         |
-| 📈 **Reporting**       | Generate various asset reports                  |
+|  **Authentication** | Admin/Employee roles with secure password hashing |
+|  **Asset Management** | Full CRUD operations for assets                  |
+|  **Allocation System** | Track asset assignments and reservations        |
+|  **Maintenance**     | Record and track maintenance activities         |
+|  **Reporting**       | Generate various asset reports                  |
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 - **Python 3.8+**
 - **MySQL Server 8.0+**
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗃️ Database Setup
+##  Database Setup
 
 ### 1. Create MySQL Database
 ```sql
@@ -101,7 +101,7 @@ password=your_password
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 ```bash
 python -m assets.main.main_module
@@ -114,7 +114,7 @@ python -m assets.main.main_module
 | Admin  | admin@company.com  | secret   |
 
 ---
-## 📂 Sample Data
+## Sample Data
 
 Pre-populated sample data is available to help you test the system. The dataset includes:
 
@@ -139,7 +139,7 @@ Pre-populated sample data is available to help you test the system. The dataset 
 ````
 --- 
 
-## 💻 Usage Guide
+## Usage Guide
 
 ### Admin Functions
 
@@ -158,7 +158,7 @@ Pre-populated sample data is available to help you test the system. The dataset 
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Test Suite
 ```bash
@@ -173,7 +173,7 @@ pytest tests/
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 asset-management/
@@ -191,7 +191,7 @@ asset-management/
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
 | Error              | Solution                               |
 |--------------------|----------------------------------------|
@@ -201,7 +201,7 @@ asset-management/
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 - Web interface
 - Email notifications
@@ -210,6 +210,6 @@ asset-management/
 
 ---
 
-## 📜 License
+## License
 
 **MIT License © 2025**
