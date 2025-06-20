@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database and configuration files
+config.properties
+*.db
+*.sqlite
+*.env
+
+# Log files
+*.log
+logs/
+
+# Test coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Documentation
+docs/_build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+
+# Project specific ignores
+assets/__pycache__/
+assets/*/__pycache__/

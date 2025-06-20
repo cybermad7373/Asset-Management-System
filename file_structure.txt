@@ -1,0 +1,40 @@
+digital_asset_management/
+│
+├── assets/
+│   ├── __init__.py
+│   ├── entity/
+│   │   ├── __init__.py
+│   │   ├── asset.py
+│   │   ├── employee.py
+│   │   ├── maintenance_record.py
+│   │   ├── asset_allocation.py
+│   │   └── reservation.py
+│   │
+│   ├── dao/
+│   │   ├── __init__.py
+│   │   ├── asset_management_service.py
+│   │   └── asset_management_service_impl.py
+│   │
+│   ├── exception/
+│   │   ├── __init__.py
+│   │   ├── asset_not_found_exception.py
+│   │   └── asset_not_maintained_exception.py
+│   │
+│   ├── util/
+│   │   ├── __init__.py
+│   │   ├── db_property_util.py
+│   │   ├── db_conn_util.py
+│   │   └── password_util.py
+│   │
+│   ├── main/
+│   │   ├── __init__.py
+│   │   └── main_module.py
+│   │
+│   └── tests/
+│       ├── __init__.py
+│       ├── test_asset_management.py
+│       └── test_exceptions.py
+│
+├── requirements.txt
+├── config.properties
+└── README.md
