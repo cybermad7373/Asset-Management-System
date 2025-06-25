@@ -38,3 +38,6 @@ digital_asset_management/
 ├── requirements.txt
 ├── config.properties
 └── README.md
+
+streamlit run assets/main/streamlit_app.py
+python assets/main/main_module.py
