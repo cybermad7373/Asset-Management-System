@@ -8,6 +8,10 @@
 
 ---
 
+### For the Sample Execution of LLD -> [Click here for github-wiki page](https://github.com/cybermad7373/Asset-Management-System/wiki/LLD-Demonstration)
+
+---
+
 ## 📌 Table of Contents
 1. [Features](#-features)
 2. [Prerequisites](#-prerequisites)
